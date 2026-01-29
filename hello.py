@@ -7,4 +7,6 @@ def calculator(number):
 
 
 if __name__ == "__main__":
-    print(greet("GitHub"))
+    print(greet_function("GitHub"))
+    print(calculator(2))
+
